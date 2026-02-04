@@ -1,0 +1,1 @@
+SELECT property_name, created_at FROM property WHERE DATE(created_at) = curdate();

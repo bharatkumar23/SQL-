@@ -1,0 +1,1 @@
+SELECT property_name, price_per_night FROM property WHERE location="Goa" AND price_per_night<3000;
