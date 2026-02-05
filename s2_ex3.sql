@@ -1,0 +1,1 @@
+SELECT p.property_name, r.rating, r.review_text FROM property p INNER JOIN review r ON p.property_id=r.property_id;

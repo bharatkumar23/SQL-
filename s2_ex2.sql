@@ -1,0 +1,1 @@
+SELECT property_name, price_per_night FROM property ORDER BY price_per_night DESC;
